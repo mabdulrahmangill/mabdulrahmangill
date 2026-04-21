@@ -60,14 +60,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mabdulrahmangill&show_icons=true&theme=radical"/>
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mabdulrahmangill&show_icons=true&theme=radical&hide_border=true" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdulrahmangill&theme=radical"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdulrahmangill&theme=radical&hide_border=true" />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdulrahmangill&layout=compact&theme=radical"/>
+
+  <!-- Top Languages (FIXED) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdulrahmangill&layout=compact&theme=radical&langs_count=10&cache_seconds=1" />
+
 </p>
 
 ---
@@ -86,4 +95,4 @@
 
 ---
 
-⭐ *"Building the Future with Code"*  
+⭐ *"Building the Future with Code"*
