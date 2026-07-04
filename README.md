@@ -23,7 +23,9 @@
 <a href="https://www.facebook.com/ch.abdulrahmangill" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-  <a href="https://www.instagram.com/chabdulrahmangill?igsh=dG9tcW03d29kMW4x" target="_blank"> <img src="https://img.shields.io/badge/@chabdulrahmangill-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/chabdulrahmangill" target="_blank">
+    <img src="https://img.shields.io/badge/@chabdulrahmangill-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
